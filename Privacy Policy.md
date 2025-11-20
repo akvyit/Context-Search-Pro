@@ -36,7 +36,7 @@ Context Search Pro (“the extension”) respects your privacy and handles data 
 - Removing the extension deletes its stored settings from the browser.
 
 ### 7. Contact
-- For questions, contact **your-email@example.com**.
+- For questions, contact **akvyit.dev@gmail.com**.
 
 ### 8. Changes to This Policy
 - We may update this policy as needed. Material changes will be announced in this repository.
