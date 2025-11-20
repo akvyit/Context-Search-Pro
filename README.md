@@ -3,7 +3,7 @@ google extensions
 
 Privacy Policy (English)
 Context Search Pro – Privacy Policy
-Last updated: YYYY-MM-DD
+Last updated: 2025-11-21
 
 Context Search Pro (“the extension”) respects your privacy and handles data as follows.
 
